@@ -71,7 +71,7 @@
 
 /* ---------- Footer styling Start ---------- */
 .footer {
-  background-color: black;
+  background-color: var(--main-black);
   padding: 1.2rem 0.5rem;
   display: flex;
   justify-content: space-between;
